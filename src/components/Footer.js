@@ -14,7 +14,7 @@ function Footer() {
             <InstagramIcon />
             <TwitterIcon />
         </div>
-        <p> &copy; 2023 aosafhimu.com</p>
+        <p> &copy; 2024 aosafhimu.com</p>
     </div>
   );
 }
